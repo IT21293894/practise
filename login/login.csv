@@ -1,0 +1,5 @@
+Test Case,Enabled,Description,Object,Action ,DataColumn,WaitAfter
+login,1,Enter username,zonoc.jas:id/string_usrname,input,username,0
+login,1,Enter password,zonoc.jas:id/string_password,input,password,0
+login,1,Click on login button,zonoc.jas:id/login,click,,
+login,1,verify text,zonoc.jas:id/snackbar_text,verifyText,errMsg,0

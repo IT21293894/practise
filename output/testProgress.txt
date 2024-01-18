@@ -1,0 +1,19 @@
+2023-12-20 12:30:40,656 Ig	navigation				 Steps file not found: C:\TestLogin\navigation\navigation.csv 
+2023-12-20 12:30:40,657 Ig	Console				 Steps file not found: C:\TestLogin\Console\Console.csv 
+2023-12-20 12:30:40,658 Ig	SavePerson				 Steps file not found: C:\TestLogin\SavePerson\SavePerson.csv 
+2023-12-20 12:30:40,658 Ig	Login_1				 Steps file not found: C:\TestLogin\Login_1\Login_1.csv 
+2023-12-20 12:30:40,658 Ig	Logout_1				 Steps file not found: C:\TestLogin\Logout_1\Logout_1.csv 
+2023-12-20 12:30:40,658 Ig	DepositCash				 Steps file not found: C:\TestLogin\DepositCash\DepositCash.csv 
+2023-12-20 12:30:40,658 Ig	QueryOptimization				 Steps file not found: C:\TestLogin\QueryOptimization\QueryOptimization.csv 
+2023-12-20 12:30:40,658 Ig	OpenZeenUI				 Steps file not found: C:\TestLogin\OpenZeenUI\OpenZeenUI.csv 
+2023-12-20 12:30:40,658 Ig	OpenProject				 Steps file not found: C:\TestLogin\OpenProject\OpenProject.csv 
+2023-12-20 12:30:40,658 Ig	NavExpo				 Steps file not found: C:\TestLogin\NavExpo\NavExpo.csv 
+2023-12-20 12:30:40,658 Ig	LoginExpo				 Steps file not found: C:\TestLogin\LoginExpo\LoginExpo.csv 
+2023-12-20 12:30:40,658 Ig	Loading				 Steps file not found: C:\TestLogin\Loading\Loading.csv 
+2023-12-20 12:30:40,658 Ig	jbOpenPortal				 Steps file not found: C:\TestLogin\jbOpenPortal\jbOpenPortal.csv 
+2023-12-20 12:30:40,658 Ig	jbDataEntryBasic				 Steps file not found: C:\TestLogin\jbDataEntryBasic\jbDataEntryBasic.csv 
+2023-12-20 12:30:40,658 Ig	curl				 Steps file not found: C:\TestLogin\curl\curl.csv 
+2023-12-20 12:30:40,658 Ig	apiDataEntryBasic				 Steps file not found: C:\TestLogin\apiDataEntryBasic\apiDataEntryBasic.csv 
+2023-12-20 12:30:40,659 Ig	SignUp				 Steps file not found: C:\TestLogin\SignUp\SignUp.csv 
+2023-12-20 12:30:51,096 EX    10344ms 2,2    Opened:              http://127.0.0.1:4723/wd/hub,and, api30,zonoc.jas, jas.app.MainActivity, 90 	 
+2023-12-20 12:31:12,324 ER    10344ms 2,2    Entered text in      zonoc.jas:id/string_usrname 	Unable to locate By.id: zonoc.jas:id/string_usrname (tried for 5 second(s) with 500 milliseconds interval) 

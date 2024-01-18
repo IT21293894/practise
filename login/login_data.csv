@@ -1,0 +1,17 @@
+Test Case,Enabled,Description,username,password,errMsg
+login,1,All the fields are empty,,,Please input the user name Please input the password
+login,1,Existing username and empty password,senuri,,Please input the password
+login,1,Non existing username and empty password,senuri@gamil.com,,Please input the password
+login,1,Empty username and correct password,,1234,Please input the user name
+login,1,Non existing username and password,senuri@gamil.com,1234,Invalid login
+login,1,Existing username in captal and correct password ,SENURI,1234,Invalid login
+login,1,Existing username and password with white spaces,senuri,12 34,Invalid login
+login,1,Enter an existing username and correct password with leading white space,senuri,1234,Invalid login
+login,1,Enter an existing username and correct password with trailing white space,senuri   ,1234,Invalid login
+login,1,Existing username with leading white space and correct password,   senuri,1234,Invalid login
+login,1,Existing username and incorrect password,senuri,7894,Invalid login
+login,1,Existing username with trailing white space and correct password,senuri     ,1234,Invalid login
+login,1,Valid username and password with special characters,senuri,12##,Bad credential.
+login,1,Valid username and password only with special characters,senuri,####,Bad credential.
+login,1,Valid username and password with letters,senuri,12aa,Invalid login
+login,1,Existing username and correct password,senuri,1234,
